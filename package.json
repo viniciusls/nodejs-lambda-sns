@@ -30,6 +30,7 @@
     "eslint-config-rallycoding": "^3.2.0",
     "ini": "^2.0.0",
     "request": "^2.88.2",
-    "telegraf": "^3.38.0"
+    "telegraf": "^3.38.0",
+    "twilio": "^3.54.1"
   }
 }
