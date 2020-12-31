@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-lambda-sns",
+  "version": "1.0.0",
+  "description": "A Lambda application to send SMS using Amazon SNS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusls/nodejs-lambda-sns.git"
+  },
+  "keywords": [
+    "nodejs",
+    "aws",
+    "amazon",
+    "sns",
+    "sms"
+  ],
+  "author": "Vinicius Silva <vinicius.ls@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniciusls/nodejs-lambda-sns/issues"
+  },
+  "homepage": "https://github.com/viniciusls/nodejs-lambda-sns#readme"
+}
