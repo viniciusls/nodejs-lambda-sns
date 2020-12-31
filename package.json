@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/viniciusls/nodejs-lambda-sns/issues"
   },
-  "homepage": "https://github.com/viniciusls/nodejs-lambda-sns#readme"
+  "homepage": "https://github.com/viniciusls/nodejs-lambda-sns#readme",
+  "dependencies": {
+    "aws-sdk": "^2.820.0",
+    "eslint": "^7.16.0",
+    "eslint-config-rallycoding": "^3.2.0",
+    "ini": "^2.0.0"
+  }
 }
